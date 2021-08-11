@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GIF App</string>
+    <string name="home_tab_title">Home</string>
+    <string name="favorite_title">Favorites</string>
+    <string name="settings_title">Settings</string>
+    <string name="clear_favorite">Clear Favorites</string>
+
+    //Home
+    <string name="search_hint">search GIFs</string>
+    <string name="no_network_title">No internet connection</string>
+    <string name="no_network">Please check your internet connection and try again</string>
+
+    //Favorite
+    <string name="no_favorite_text">You haven\'t added any favorite yet</string>
+
+    //Menu
+    <string name="download_gif">Download GIF</string>
+    <string name="share_gif">Share GIF</string>
+
+    //Notifications
+    <string name="notification_description">Gif downloaded</string>
+    <string name="pref_key_gif_quality">key_gif_quality</string>
+    <string name="download_error">Could not download the gif right now. Please check your internet connection.</string>
+
+</resources>
