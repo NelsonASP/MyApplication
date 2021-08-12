@@ -39,7 +39,7 @@
             android:hapticFeedbackEnabled="true"
             app:layout_constraintBottom_toBottomOf="@+id/gif"
             app:layout_constraintStart_toStartOf="parent"
-            app:srcCompat="@drawable/ic_favourite_selector" />
+            app:srcCompat="@drawable/ic_favorite_selector" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

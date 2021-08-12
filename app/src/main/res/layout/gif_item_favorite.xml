@@ -22,7 +22,7 @@
 
         <ImageView
             android:id="@+id/favourite_button"
-            app:srcCompat="@drawable/ic_favourite_selector"
+            app:srcCompat="@drawable/ic_favorite_selector"
             android:layout_width="@dimen/favorite_button_size"
             android:layout_height="@dimen/favorite_button_size"
             android:layout_margin="@dimen/favorite_button_margin"

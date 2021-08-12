@@ -95,7 +95,6 @@ class HomeFragment : Fragment(), SearchView.OnQueryTextListener,
                         with(binding) {
                             progressCircular.visibility = View.VISIBLE
                             recyclerview.visibility = View.GONE
-                            emptyState.visibility = View.GONE
                         }
                     }
                     is Result.Success -> {
